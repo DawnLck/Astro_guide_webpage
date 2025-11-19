@@ -1,0 +1,5 @@
+{
+  "name": "AstroGuide: Interactive Star Map",
+  "description": "A professional-grade interactive 3D star map visualizing major constellations like Orion, Ursa Major, and Cassiopeia. Features dynamic constellation connection on hover, directional guidance, and keyboard-based navigation.",
+  "requestFramePermissions": []
+}
